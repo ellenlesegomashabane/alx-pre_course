@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "ALX Scool"
+echo "ALX School"
 clear
 cd bash
